@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/249
     wikipedia: http://en.wikipedia.org/wiki/Marie-Madeleine_Pioche_de_la_Vergne%2C_comtesse_de_la_Fayette
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45692#Histoire-d-Henriette-d-Angleterre
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2014-05-18'
 gutenberg_type: Text
