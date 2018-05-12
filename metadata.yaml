@@ -1,0 +1,46 @@
+_repo: Histoire-d-Henriette-d-Angleterre_45692
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Anatole
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+covers:
+- cover_type: archival
+  image_path: 45692-h/images/cover.jpg
+creator:
+  author:
+    agent_name: La Fayette, Madame de (Marie-Madeleine Pioche de La Vergne)
+    aliases:
+    - LaFayette, Madame de (Marie-Madeleine Pioche de La Vergne)
+    - Fayette, Marie-Madeleine Pioche de La Vergne, comtesse de La
+    - Fayette, Marie-Madeleine de la
+    - De La Fayette, Madame (Marie-Madeleine Pioche de La Vergne)
+    - Fayette, Madame de La (Marie-Madeleine Pioche de La Vergne)
+    birthdate: 1634
+    deathdate: 1693
+    gutenberg_agent_id: '249'
+    url: http://www.gutenberg.org/2009/agents/249
+    wikipedia: http://en.wikipedia.org/wiki/Marie-Madeleine_Pioche_de_la_Vergne%2C_comtesse_de_la_Fayette
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2014-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45692'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Orléans, Henriette-Anne, duchesse d'', 1644-1670'
+title: Histoire d'Henriette d'Angleterre
+url: http://www.gutenberg.org/ebooks/45692
